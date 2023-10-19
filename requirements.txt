@@ -1,0 +1,6 @@
+functions-framework==3.*
+google-cloud-bigquery==3.11.4
+requests>= 2.31.0
+bs4>=0.0.1
+sqlite3-0611>=0.0.1
+pymongo>=4.5.0
